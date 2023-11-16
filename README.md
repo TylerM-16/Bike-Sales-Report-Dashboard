@@ -38,7 +38,7 @@ The project demonstrates the following key data analyst skills:
 The project sets the foundation for potential future enhancements, such as [mention potential areas for additional visualizations, advanced analytics, or integration with other data sources] to further enrich the analysis and gain deeper insights into the bike sales industry.
 
 ## Contact Information
-Feel free to reach out to me at [your email address] for any questions, feedback, or collaboration opportunities related to this project.
+Feel free to reach out to me at [TylerMc4@outlook.com] for any questions, feedback, or collaboration opportunities related to this project.
 
 Dashboard:
 ![image](https://github.com/TylerM-16/Bike-Sales-Report-Dashboard/assets/150025850/d1e4ae1d-3324-40e8-b774-bca8f1b04c20)
